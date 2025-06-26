@@ -25,7 +25,8 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "favicon2": "./assets/favicon.png"
     },
     "extra": {
       "eas": {

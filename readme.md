@@ -27,3 +27,4 @@ eas device:create
 
 - Anne (primary)
 - Scott Chacon
+- Another person
