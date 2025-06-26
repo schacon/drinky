@@ -25,4 +25,5 @@ eas device:create
 
 ## Authors
 
+- Anne (primary)
 - Scott Chacon
