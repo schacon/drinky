@@ -15,9 +15,14 @@ To create a new build, run this command:
 ```
 
 Use Scott's apple dev account. This gives you a QR code to scan for an update.
+Use Scott's apple dev account. This gives you a QR code to scan for an update.
 
 To add a new device, run this command:
 
 ```
 eas device:create
 ```
+
+## Authors
+
+- Scott Chacon
